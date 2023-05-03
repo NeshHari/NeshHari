@@ -4,6 +4,11 @@
 
 [![XMonad Starter Kit](https://img.shields.io/badge/XMonad%20Starter%20Kit-2f3437?style=for-the-badge&logo=haskell&logoColor=b4befe)](https://github.com/NeshHari/XMonad)
 
+<h3 align="left">Job</h3>
+<ul>
+  <li>Software Engineer</li>
+</ul>
+
 
 <h3 align="left">Education</h3>
 <ul>
